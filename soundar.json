@@ -1,0 +1,58 @@
+{
+  "name": "Soundar Rathinasamy",
+  "about_me": "Self managed Ruby on Rails developer who loves stress free remote work culture",
+  "email": "railslauncher@gmail.com",
+  "github": "https://github.com/railslauncher",
+  "skills": [
+    "Ruby",
+    "Rails",
+    "Sidekiq",
+    "RSpec",
+    "MySql",
+    "PostgresSQL",
+    "ReactJS",
+    "AngularJS",
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "TypeScript",
+    "Responsive Design",
+    "Python",
+    "FastAPI",
+    "JIRA",
+    "Git",
+    "Heroku",
+    "AWS"
+  ],
+  "experience": [
+    {
+      "company": "RailsFactory",
+      "role": "Junior Ruby on Rails developer",
+      "start": 2010,
+      "end": 2011
+    },
+    {
+      "company": "Payoda Technologies",
+      "role": "Ruby on Rails developer",
+      "start": 2012,
+      "end": 2014
+    },
+    {
+      "company": "Changepond Technologies",
+      "role": "Senior Ruby on Rails developer",
+      "start": 2015,
+      "end": 2015
+    },
+    {
+      "company": "Positly",
+      "role": "Freelance - Ruby on Rails Architect",
+      "start": 2016
+    },
+    {
+      "company": "Crossover",
+      "role": "Freelance - Ruby on Rails Architect",
+      "start": 2019,
+      "end": 2020
+    }
+  ]
+}
